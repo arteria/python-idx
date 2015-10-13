@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='idx',
-    version= '0.0.0,
+    version= '0.0.0',
     packages=['idx', ],
     license='MIT',
     long_description=open('README.md').read(),
